@@ -62,3 +62,134 @@
   text-align: center;
   
 }
+
+// /* styles.css */
+
+// body {
+//     font-family: Arial, sans-serif;
+//     background-color: #f8f9fa;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     height: 100vh;
+//     margin: 0;
+//     flex-direction: column;
+// }
+
+// .card-container {
+//     display: flex;
+//     flex-direction: column;
+//     gap: 20px;
+//     align-items: center;
+// }
+
+// .card {
+//     background-color: #fff;
+//     border: 1px solid #ddd;
+//     border-radius: 8px;
+//     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+//     overflow: hidden;
+//     width: 18rem;
+//     text-align: center;
+// }
+
+// .card img {
+//     width: 100%;
+//     height: auto;
+// }
+
+// .card-body {
+//     padding: 16px;
+// }
+
+// .card-title {
+//     margin: 16px 0;
+//     font-size: 1.25rem;
+//     font-weight: bold;
+// }
+
+// .card-text {
+//     margin-bottom: 16px;
+//     color: #666;
+// }
+
+// .btn {
+//     background-color: #007bff;
+//     color: #fff;
+//     padding: 10px 20px;
+//     border: none;
+//     border-radius: 4px;
+//     text-decoration: none;
+//     display: inline-block;
+// }
+
+// .btn:hover {
+//     background-color: #0056b3;
+// }
+
+/* styles.css */
+
+b
+
+.card-container .card:nth-child(3) {
+  grid-column: 2 / span 1;
+  grid-row: 2 / span 1;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 18rem;
+  text-align: center;
+  left: 5rem;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-body {
+  padding: 16px;
+}
+
+.card-title {
+  margin: 16px 0;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-text {
+  margin-bottom: 16px;
+  color: #666;
+}
+
+.btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+.image{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttons{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
